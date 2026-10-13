@@ -1,0 +1,9 @@
+column,label,non_null,pct
+raw_alt_ft,altitude (ADS-B),3691277,91.04
+raw_vz_ftmin,vertical speed (ADS-B),3622972,89.35
+bds_mach,"Mach (BDS 6,0)",1224007,30.19
+bds_ias_kt,"CAS/IAS (BDS 6,0)",1223650,30.18
+bds_mcp_alt_sel_ft,"selected altitude MCP (BDS 4,0)",1232875,30.41
+bds_fms_alt_sel_ft,"selected altitude FMS (BDS 4,0)",487609,12.03
+era_temp_K,ERA5 temperature,3606645,88.95
+"",selected speed (no register exists),0,0.0

@@ -1,0 +1,16 @@
+date,in_sample,channel,frozen_algo,frozen_knobs,frozen_coverage_pct,refit_algo,refit_butter,refit_knobs,refit_coverage_pct,deficit_pts,same_setting,n_admissible,n_scored
+2025-02-17,false,alt,bilateral,"sigma_r=5,sigma_s=20,slope_tol=3.63424",59.785093735711015,bilateral,0,"sigma_r=5,sigma_s=20,slope_tol=0.861774",56.48343314708867,-3.3016605886223473,false,221,4952
+2025-02-17,false,cas,bilateral,"sigma_r=1.5,sigma_s=8,slope_tol=0.353439",31.671709845791668,bilateral,0,"sigma_r=1.5,sigma_s=8,slope_tol=0.233205",28.760091312257007,-2.9116185335346607,false,553,5320
+2025-02-17,false,gamma,bilateral,"sigma_r=0.002,sigma_s=4,slope_tol=0.000144225",8.132214457572601,bilateral,0,"sigma_r=0.002,sigma_s=4,slope_tol=0.000144225",8.132214457572601,0.0,true,401,8408
+2025-02-17,false,mach,bilateral,"sigma_r=0.0025,sigma_s=8,slope_tol=0.000316228",52.949993349980794,bilateral,0,"sigma_r=0.0025,sigma_s=10,slope_tol=0.0003",52.10596394643522,-0.8440294035455764,false,690,4952
+2025-02-17,false,vz,bilateral,"sigma_r=50,sigma_s=4,slope_tol=21.9382",6.242322359140645,bilateral,0,"sigma_r=50,sigma_s=6,slope_tol=20",5.957778135217579,-0.2845442239230662,false,238,3800
+2025-05-21,false,alt,bilateral,"sigma_r=5,sigma_s=20,slope_tol=3.63424",60.70141487776438,bilateral,0,"sigma_r=5,sigma_s=20,slope_tol=0.560163",55.91039381488575,-4.791021062878627,false,158,4952
+2025-05-21,false,cas,bilateral,"sigma_r=1.5,sigma_s=8,slope_tol=0.353439",31.965545515004074,bilateral,0,"sigma_r=1.5,sigma_s=6,slope_tol=0.14092",24.291714967442307,-7.673830547561767,false,398,5320
+2025-05-21,false,gamma,bilateral,"sigma_r=0.002,sigma_s=4,slope_tol=0.000144225",7.396636789890322,bilateral,0,"sigma_r=0.002,sigma_s=4,slope_tol=8.45731e-05",5.109287622649261,-2.287349167241061,false,223,8408
+2025-05-21,false,mach,bilateral,"sigma_r=0.0025,sigma_s=8,slope_tol=0.000316228",52.495615047878275,bilateral,0,"sigma_r=0.005,sigma_s=6,slope_tol=0.000215444",51.10655556483587,-1.3890594830424021,false,468,4952
+2025-05-21,false,vz,bilateral,"sigma_r=50,sigma_s=4,slope_tol=21.9382",5.567423215050339,bilateral,0,"sigma_r=50,sigma_s=6,slope_tol=13.6748",4.316011321389339,-1.2514118936610004,false,223,3800
+2025-08-29,false,alt,bilateral,"sigma_r=5,sigma_s=20,slope_tol=3.63424",60.897455818952814,bilateral,0,"sigma_r=5,sigma_s=20,slope_tol=0.236678",54.49365535407529,-6.403800464877527,false,187,4952
+2025-08-29,false,cas,bilateral,"sigma_r=1.5,sigma_s=8,slope_tol=0.353439",34.40866558510726,bilateral,0,"sigma_r=1.5,sigma_s=10,slope_tol=0.3",32.9008188169488,-1.5078467681584584,false,545,5320
+2025-08-29,false,gamma,bilateral,"sigma_r=0.002,sigma_s=4,slope_tol=0.000144225",6.5612064943702,bilateral,0,"sigma_r=0.001,sigma_s=4,slope_tol=0.000782974",7.16041703200532,0.5992105376351198,false,253,8403
+2025-08-29,false,mach,bilateral,"sigma_r=0.0025,sigma_s=8,slope_tol=0.000316228",50.55204848144118,bilateral,0,"sigma_r=0.005,sigma_s=10,slope_tol=0.000228943",56.3803188539792,5.8282703725380145,false,608,4952
+2025-08-29,false,vz,bilateral,"sigma_r=50,sigma_s=4,slope_tol=21.9382",4.709722825028744,bilateral,0,"sigma_r=50,sigma_s=10,slope_tol=8.52398",1.948306938565948,-2.761415886462796,false,194,3800

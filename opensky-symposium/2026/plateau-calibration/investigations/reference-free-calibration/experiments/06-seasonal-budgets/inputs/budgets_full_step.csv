@@ -1,0 +1,6 @@
+channel,unit,budget,budget_native,native_unit,basis,measured,round_2_budget,ratio_to_round_2,budget_full_step,convention
+alt,m,3.81,12.5,ft,quantisation step / 2,step = 25 ft (99.5 % of gaps are multiples),2.0,1.905,7.62,full quantisation step
+vz,ft/min,32.0,32.0,ft/min,quantisation step / 2,step = 64 ft/min (70.7 % of gaps are multiples),50.0,0.64,64.0,full quantisation step
+gamma,rad,0.0007143856013288705,0.0007143856013288705,rad,median of the propagated budget,"dvz = 32 ft/min, dV = 2.57 kt, the vz term dominating by 90x",0.0008726646259971648,0.8186255980211938,0.001428771202657741,full quantisation step
+cas,kt,2.57274172158417,2.57274172158417,kt,robust sigma of the ERA5 reconstruction error,"70.5 % of the channel is reconstructed; 287,782 paired samples",1.0,2.57274172158417,2.57274172158417,"unchanged — no step, reads the ERA5 sigma"
+mach,-,0.006672455577101363,0.006672455577101363,-,robust sigma of the ERA5 reconstruction error,"70.5 % of the channel is reconstructed; 287,782 paired samples",0.005,1.3344911154202725,0.006672455577101363,"unchanged — no step, reads the ERA5 sigma"

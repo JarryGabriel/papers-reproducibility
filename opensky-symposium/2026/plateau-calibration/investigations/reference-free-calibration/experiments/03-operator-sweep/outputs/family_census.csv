@@ -1,0 +1,9 @@
+kind,key,channels_scored,scored,admissible,channels_admissible
+family,bilateral,5,19872,1169,5
+family,savgol,5,4880,430,5
+family,varthresh,5,2390,370,5
+family,pelt,5,272,29,2
+cutoff,0,5,6846,1673,
+cutoff,120,5,6857,219,
+cutoff,180,5,6857,101,
+cutoff,300,5,6854,5,

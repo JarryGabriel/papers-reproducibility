@@ -1,0 +1,20 @@
+\begin{tabular}{lrrrr}
+\toprule
+Detector family & Scored & Admissible & \multicolumn{2}{c}{Channels} \\
+\cmidrule(l){4-5}
+ & & & scored & admissible \\
+\midrule
+Bilateral filter & 19\,872 & 1\,169 & 5 & 5 \\
+Savitzky--Golay & 4\,880 & 430 & 5 & 5 \\
+Variance threshold & 2\,390 & 370 & 5 & 5 \\
+PELT (change point) & 272 & 29 & 5 & 2 \\
+\midrule
+Total & 27\,414 & 1\,998 & 5 & 5 \\
+\midrule
+\multicolumn{5}{l}{\emph{Admissible candidates by pre-filter cutoff (s)}} \\
+\quad none & 6\,846 & 1\,673 & & \\
+\quad 120 & 6\,857 & 219 & & \\
+\quad 180 & 6\,857 & 101 & & \\
+\quad 300 & 6\,854 & 5 & & \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,28 @@
+{
+  "plan": "investigations/reference-availability/experiments/01-bds40-availability/inputs/flight_plan.csv",
+  "config": "src/opensky26_plateau/pipeline/config.yaml",
+  "smoke": null,
+  "data_dir": null,
+  "force_refresh": false,
+  "dates": [
+    "20250217",
+    "20250521",
+    "20250829",
+    "20251101"
+  ],
+  "airframes": 200,
+  "aircraft_days": 800,
+  "typecodes": [
+    "A20N",
+    "A21N",
+    "A320",
+    "A321",
+    "A333",
+    "A359",
+    "AT76",
+    "B38M",
+    "B738",
+    "E190"
+  ],
+  "downloaded": false
+}

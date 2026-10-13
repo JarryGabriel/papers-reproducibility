@@ -1,0 +1,201 @@
+icao24,registration,typecode,model,manufacturername,operator,owner,engines,icaoaircrafttype,built,age_years,airline
+71012f,HZ-AQ26,A333,A330 343E,Airbus,"",Saudi Arabian Airlines,"",L2J,"",,SVA
+7801ca,B-LAE,A333,A330 342,Airbus,"",Cathay Pacific Airways,"",L2J,"",,CPA
+78008b,B-8970,A333,A330 343E,Airbus,"",China Eastern Airlines,"",L2J,"",,CES
+7100ba,HZ-AQ16,A333,A330 343E,Airbus,"",Saudi Arabian Airlines,"",L2J,"",,SVA
+7100b9,HZ-AQ15,A333,A330 343E,Airbus,"",Saudi Arabian Airlines,"",L2J,"",,SVA
+71c026,HL8026,A333,A330 323E,Airbus,"",Korean Air,"",L2J,"",,KAL
+4b187a,HB-JHA,A333,A330-343,Airbus,Swiss International Air Lines,Swiss International Air Lines Ltd.,ROLLS-ROYCE PLC RB211 TRENT 772B-60,L2J,2009-01-01,16.8,SWR
+780236,B-LAK,A333,A330 343E,Airbus,"",Cathay Pacific Airways,"",L2J,"",,CPA
+78115d,B-8386,A333,Airbus A330 343E,Airbus,"",Air China,"",L2J,"",,CCA
+710050,HZ-AQG,A333,A330 343E,Airbus,"",Saudi Arabian Airlines,"",L2J,"",,SVA
+4ca74e,EI-EAV,A333,A330-302,Airbus Industrie,"",Aer Lingus Limited,2x GENERAL ELECTRIC COMPANY CF6-80E1A4B,L2J,2009-01-01,16.8,EIN
+7812a4,B-1020,A333,"","","","","",L2J,"",,CHH
+484f72,PH-AKB,A333,A330 303,Airbus,"",Klm Royal Dutch Airlines,"",L2J,"",,KLM
+8a05ab,PK-GPZ,A333,A330 343E,Airbus,"",Garuda Indonesia,"",L2J,"",,GIA
+7806e2,B-6529,A333,A330 343E,Airbus,"",Hainan Airlines,"",L2J,"",,CHH
+710062,HZ-AQL,A333,A330 343E,Airbus,"",Saudi Arabian Airlines,"",L2J,"",,SVA
+71bf92,HL7792,A333,A330 323E,Airbus,"",Asiana Airlines,"",L2J,"",,AAR
+c0583a,C-GHKR,A333,A330-343 (Airbus),Airbus Industrie,"",Air Canada,"",L2J,"",,ACA
+780a81,B-LBG,A333,A330 343E,Airbus,"",Cathay Dragon,"",L2J,"",,CPA
+344345,EC-LXK,A333,A330 302,Airbus,"",Iberia,"",L2J,"",,IBE
+e94c84,CP-3204,B738,"","","","","",L2J,"",,BOV
+ac4dfb,N892NN,B738,737-823,Boeing,American Airlines,Bank Of Utah Trustee,CFM INTL CFM56-7B24E,L2J,2012-01-01,13.8,AAL
+ad2736,N947AN,B738,737-823,Boeing,"",American Airlines Inc,CFM INTL. CFM56 SERIES,L2J,2000-01-01,25.8,AAL
+4ca2c1,EI-DLD,B738,BOEING 737-8AS,The Boeing Company,"",Ryanair Designated Activity Company,2x CFM CFM56-7B26,L2J,2005-01-01,20.8,RYR
+7806c7,B-5490,B738,737NG 85P/W,Boeing,"",Shandong Airlines,"",L2J,"",,CDG
+71c321,HL8321,B738,"","","","","",L2J,"",,JJA
+781d86,B-221V,B738,"","","","","",L2J,"",,HLF
+4bcdf0,TC-SOP,B738,737-8AS,Boeing,Sunexpress,"","",L2J,"",,SXS
+7c6dde,VH-VZK,B738,737-838,Boeing,Qantas,Qantas Airways,JET,L2J,"",,QFA
+39cea4,F-HTVE,B738,737NG 800/W,Boeing,"",Transavia France,"",L2J,"",,TVF
+71c014,HL8014,B738,737NG 8SH/W,Boeing,"",Jin Air,"",L2J,"",,JNA
+adb656,N983AN,B738,737NG 823/W,Boeing,"",American Airlines,"",L2J,"",,AAL
+4070e6,G-JZHS,B738,BOEING 737-800,Boeing Company,"",Jet2,2 x CFM CFM56-7B26E<br>,L2J,2016-01-01,9.8,EXS
+484559,PH-BGB,B738,737NG 8K2/W,Boeing,"",Klm Royal Dutch Airlines,"",L2J,"",,KLM
+4ca1aa,EI-CXV,B738,BOEING 737-8CX,The Boeing Company,"",Masl Ireland (14) Limited,2x CFM CFM56-7B26,L2J,2002-01-01,23.8,MGL
+abe075,N8643A,B738,737-8H4,Boeing,"",Southwest Airlines Co,CFM INTL CFM56-7B27E,L2J,2014-01-01,11.8,SWA
+4070e9,G-JZHV,B738,BOEING 737-800,Boeing Company,"",Jet2,2 x CFM CFM56-7B26E<br>,L2J,2016-01-01,9.8,EXS
+780d55,B-1741,B738,737NG 86D/W,Boeing,"",Shanghai Airlines,"",L2J,"",,CSH
+4d21f0,9H-QAH,B738,737-8AS,Boeing,Malta Air Limited - Malta,Malta Air,CFMI CFM56-7B26,L2J,"",,RYR
+0a008e,7T-VKO,B738,737NG 8D6/W,Boeing,Air Algerie,Air Algerie,"",L2J,2016-01-01,9.8,DAH
+407e33,G-CMJN,AT76,"","","","","",L2T,"",,EAG
+7585a0,RP-C7291,AT76,ATR 72-600,"",Cebu Pacific,"","",L2T,"",,SRQ
+884364,HS-PZD,AT76,ATR 72 600,Avions De Transport Regional,"",Bangkok Airways,"",L2T,"",,BKP
+4ab564,SE-MKD,AT76,ATR 72 600,Avions De Transport Regional,"",Braathens Regional Airways,"",L2T,"",,SAS
+884343,HS-PZC,AT76,ATR 72 600,Avions De Transport Regional,"",Bangkok Airways,"",L2T,"",,BKP
+8013e3,VT-IXS,AT76,"","","","","",L2T,"",,IGO
+801465,VT-IXY,AT76,ATR 72-600,"",Indigo Airlines,"","",L2T,"",,IGO
+801414,VT-IXX,AT76,ATR 72-600,"",Indigo Airlines,"","",L2T,"",,IGO
+3442c2,EC-LRH,AT76,ATR 72 600,Avions De Transport Regional,"",Iberia Regional,"",L2T,"",,ANE
+899140,B-17005,AT76,ATR 72 600,Avions De Transport Regional,"",Uni Air,"",L2T,"",,UIA
+346345,EC-NGG,AT76,ATR 72-600 (212A),"",Binter Canarias,"","",L2T,"",,NAY
+800cbe,VT-IYG,AT76,"","","","","",L2T,"",,IGO
+3a330c,F-OMYM,AT76,ATR 72 600,Avions De Transport Regional,"",Air Antilles Express,"",L2T,"",,KES
+800db2,VT-IYU,AT76,ATR 72-600,"",Indigo Airlines,"","",L2T,"",,IGO
+0aca7e,HK-5404,AT76,"","","","","",L2T,"",,EFY
+800cf7,VT-IYL,AT76,ATR 72-600 ,"",Indigo Airlines,"","",L2T,"",,IGO
+4ab568,SE-MKH,AT76,ATR 72 600,Avions De Transport Regional,"",Braathens Regional Airways,"",L2T,"",,AUA
+407d46,G-LMTE,AT76,"","","","","",L2T,"",,LOG
+4d2465,9H-NCC,AT76,"","","","","",L2T,"",,ANE
+800cc2,VT-IYH,AT76,"","","","","",L2T,"",,IGO
+8990b1,B-16215,A321,A321 211SL,Airbus,"",Eva Air,"",L2J,"",,UIA
+a07522,N129AA,A321,A321-231,Airbus,American Airlines,Bank Of Utah Trustee,IAE V2533-A5,L2J,2014-01-01,11.8,AAL
+a0c075,N148AN,A321,A321-231,Airbus,"",American Airlines Inc,IAE V2533-A5,L2J,2015-01-01,10.8,AAL
+e491a1,PT-XPC,A321,A321 211SL,Airbus,"",Latam Brasil,"",L2J,"",,TAM
+8965f7,A6-ATH,A321,"","","","","",L2J,"",,ABY
+3c6487,D-AIDG,A321,A321 231,Airbus,"",Lufthansa,"",L2J,"",,DLH
+7c6d75,VH-VWN,A321,A321-231,Airbus Industrie,Jetstar Airways,Jetstar Airways,"",L2J,2016-01-01,9.8,JST
+ada336,N978UY,A321,A321 231,Airbus,"",American Airlines,"",L2J,"",,AAL
+780368,B-MCA,A321,A321 231SL,Airbus,"",Air Macau,"",L2J,"",,AMU
+a46e40,N385DZ,A321,A321-211,Airbus,Delta Air Lines,Delta Air Lines Inc,CFM INTL CFM56-5B3/3,L2J,2019-01-01,6.8,DAL
+e80458,CC-BEO,A321,A321 211SL,Airbus,"",Latam Airlines,"",L2J,"",,LAN
+a71b43,N557UW,A321,A321-231,Airbus,"",American Airlines Inc,IAE V2533-A5,L2J,2012-01-01,13.8,AAL
+acb636,N918US,A321,A321-231,Airbus,"",American Airlines Inc,IAE V2533-A5,L2J,2015-01-01,10.8,AAL
+780486,B-6353,A321,A321 231,Airbus,"",China Southern Airlines,"",L2J,"",,CSN
+3c6482,D-AIDB,A321,A321 231,Airbus,"",Lufthansa,"",L2J,"",,DLH
+88808d,VN-A326,A321,A321 231,Airbus,"",Vietnam Airlines,"",L2J,"",,HVN
+3c6498,D-AIDX,A321,A321 231,Airbus,"",Lufthansa,"",L2J,"",,DLH
+400b00,G-EUXH,A321,AIRBUS A321-231,Airbus Sas,"",British Airways,2 x INTERNATIONAL AERO ENGINE V2533-A5<br>,L2J,2004-01-01,21.8,EFW
+a023a5,N108NN,A321,A321-231,Airbus Industrie,"",American Airlines Inc,IAE V2533-A5,L2J,2014-01-01,11.8,AAL
+3c6426,D-AIAF,A321,A321 211SL,Airbus,"",Condor Flugdienst,"",L2J,"",,CFG
+76cdb2,9V-SMR,A359,Airbus A350 941,Airbus,"",Singapore Airlines,"",L2J,"",,SIA
+76cd06,9V-SHF,A359,A350-941,"",Singapore Airlines,"","",L2J,"",,SIA
+3c670e,D-AIXN,A359,A350-941,Airbus Industrie,Lufthansa,"","",L2J,"",,DLH
+885104,HS-THD,A359,A350 941,Airbus,"",Thai Airways International,"",L2J,"",,THA
+39c498,F-HREY,A359,A350 941,Airbus,French Bee,French Bee,"",L2J,"",,FBU
+88510e,HS-THN,A359,"","","","","",L2J,"",,THA
+76cd07,9V-SHG,A359,A350-941,"",Singapore Airlines,"","",L2J,"",,SIA
+71bf71,HL7771,A359,Airbus A350-941,"",Asiana Airlines,"","",L2J,"",,AAR
+888168,VN-A899,A359,"","","","","",L2J,"",,HVN
+76cd16,9V-SHV,A359,A350-900,Airbus Industries,Singapore Airlines,Singapore Airlines,JET,L2J,"",,SIA
+89916b,B-18915,A359,A350-941,Airbus Industrie,China Airlines,"","",L2J,2017-12-01,7.9,CAL
+06a105,A7-ALQ,A359,Airbus A350 941,Airbus,"",Qatar Airways,"",L2J,"",,QTR
+a67bd3,N517DZ,A359,A350-941,Airbus Sas,Delta Air Lines,Delta Air Lines Inc,ROLLS DEU TRENT XWB-84,L2J,2022-01-01,3.8,DAL
+3c6708,D-AIXH,A359,A350 941,Airbus,"",Lufthansa,"",L2J,"",,DLH
+39cf13,F-HTYT,A359,"","","","","",L2J,"",,AFR
+8990f4,B-18907,A359,A350-941,Airbus Industrie,China Airlines,China Airlines,"",L2J,2017-05-01,8.5,CAL
+3465c5,EC-NOI,A359,A350-941,Airbus,World2fly,World2fly,RR Trent XWB,L2J,2021-02-01,4.7,WFL
+76cd0a,9V-SHJ,A359,A350-941,"",Singapore Airlines,"","",L2J,"",,SIA
+4aca64,SE-RSD,A359,"","",Scandinavian Airlines,"","",L2J,"",,SAS
+06a108,A7-ALT,A359,A350 941,Airbus,"",Qatar Airways,"",L2J,"",,QTR
+a22778,N238NV,A320,A320-214,Airbus,Allegiant Air,Umb Bank Na Trustee,"",L2J,"",,AAY
+8a0515,PK-LAL,A320,A320 214SL,Airbus,"",Batik Air,"",L2J,"",,BTK
+845be4,JA10JJ,A320,A320 232,Airbus,"",Jetstar Japan,"",L2J,"",,JJP
+780c6e,B-1850,A320,A320 232SL,Airbus,"",Tianjin Airlines,"",L2J,"",,GCR
+8013bd,VT-MLE,A320,"","","","","",L2J,"",,AXB
+a7a1e8,N591JB,A320,A320-232,Airbus,"",Jetblue Airways Corporation,IAE V2500SERIES,L2J,2004-01-01,21.8,JBU
+4d2393,9H-MLC,A320,"","","","","",L2J,"",,VIV
+4951d5,CS-TNU,A320,A320 214,Airbus,"",Tap Portugal,"",L2J,"",,TAP
+8013ca,VT-VNS,A320,A320-216 (W),"",Fly Wex,"","",L2J,"",,AXB
+a2b2e1,N273NV,A320,A320-214,Airbus Industrie,Allegiant Air,Allegiant Air Llc,CFM INTL CFM56-5B4/P,L2J,2007-01-01,18.8,AAY
+503d6f,LY-HMD,A320,"","","","","",L2J,"",,AHY
+885312,HS-TXR,A320,A320 232SL,Airbus,Thai Smile Airways,Thai Smile,"",L2J,"",,THA
+780fb3,B-8491,A320,A320 232SL,Airbus,"",Air China,"",L2J,"",,CCA
+a790b3,N587JB,A320,A320-232,Airbus,"",Jetblue Airways Corp,IAE V2500SERIES,L2J,2004-01-01,21.8,JBU
+504e65,ER-00007,A320,A320-232 ,"",Fly One,"","",L2J,"",,FIE
+a5f938,N484UA,A320,A320-232,Airbus Industrie,"",Wells Fargo Trust Co Na Trustee,IAE V2500SERIES,L2J,2001-01-01,24.8,UAL
+ad4b05,N956AV,A320,A320-214,Airbus,"",Bank Of Utah Trustee,CFM INTL. CFM56 SERIES,L2J,2014-01-01,11.8,AVA
+adda25,N992AV,A320,A320 214,Airbus,"",Avianca,"",L2J,"",,AVA
+343194,EC-KRH,A320,A320 214,Airbus,"",Vueling Airlines,"",L2J,"",,VLG
+8a0634,PK-LUP,A320,A320 214SL,Airbus,"",Batik Air,"",L2J,"",,BTK
+801547,VT-YAL,B38M,"","","","","",L2J,"",,AKJ
+485a86,PH-TFU,B38M,"","","","","",L2J,"",,TFL
+c02cfc,C-FRAX,B38M,737-8 (Boeing),The Boeing Company,"",Westjet,"",L2J,"",,WJA
+7813be,B-1295,B38M,"","","","","",L2J,"",,CSN
+4bb026,TC-LAF,B38M,"","","","","",L2J,"",,TKJ
+4cada4,EI-IFV,B38M,"","","","","",L2J,"",,RYR
+e49890,PS-GPH,B38M,"","","","","",L2J,"",,GLO
+7814ff,B-205K,B38M,"","","","","",L2J,"",,CSN
+76b449,9V-MBI,B38M,"","","","","",L2J,"",,SIA
+ac0f4d,N8762Q,B38M,737-8,Boeing,Southwest Airlines,Southwest Airlines Co,CFM INTL LEAP-1B28 SER,L2J,2022-01-01,3.8,SWA
+4bb02a,TC-LAJ,B38M,"","","","","",L2J,"",,TKJ
+48af05,SP-LVF,B38M,737 MAX 8,Boeing Commercial Aircraft,Lot Polish Airlines,Lot Polish Airlines,CFM Leap-1B,L2J,"",,LOT
+4cac54,EI-HGP,B38M,737-8-200 MAX,The Boeing Company,Ryanair,"",2,L2J,"",,RYR
+4bcdec,TC-SOL,B38M,737 MAX 8,Boeing,Sunexpress,"","",L2J,"",,SXS
+ac2c33,N8836Q,B38M,737-8,Boeing,Southwest Airlines,Southwest Airlines Co,CFM INTL LEAP-1B28 SER,L2J,2023-01-01,2.8,SWA
+c0653d,C-GMIU,B38M,737-8,"",Air Canada,"","",L2J,"",,ACA
+abf9f8,N8709Q,B38M,737-8,Boeing,"",Southwest Airlines Co,CFM INTL LEAP-1B28 SER,L2J,2017-01-01,8.8,SWA
+781563,B-207D,B38M,"","","","","",L2J,"",,CSZ
+71c349,HL8349,B38M,"","","","","",L2J,"",,KAL
+0c605e,9Y-CAL,B38M,737-8,"",Caribbean Airlines,"","",L2J,"",,BWA
+a68d02,N521DT,A21N,A321-271NX,Airbus,Delta Air Lines,Delta Air Lines Inc,IAE PW1133G-JM,L2J,2022-01-01,3.8,DAL
+781935,B-30EV,A21N,"","","","","",L2J,"",,CSN
+a4f1e5,N418AN,A21N,A321-253NX,Airbus,"",Bank Of Utah Trustee,CFM INTL LEAP-1A33,L2J,2020-01-01,5.8,AAL
+a65454,N507DZ,A21N,A321-271NX,Airbus,Delta Air Lines,Delta Air Lines Inc,"",L2J,"",,DAL
+4bc883,TC-RDC,A21N,A321-251NX,Airbus,Pegasus Airlines,"","",L2J,"",,PGT
+896582,A6-ATD,A21N,"","","","","",L2J,"",,ABY
+4bb270,TC-LSP,A21N,"","","","","",L2J,"",,THY
+4d2402,9H-WAD,A21N,"","","","","",L2J,"",,WZZ
+4bc841,TC-RBA,A21N,A321-251NX ,"",Pegasus Airlines,"","",L2J,"",,PGT
+010250,SU-TCL,A21N,"","","","","",L2J,"",,LMU
+88815b,VN-A674,A21N,"","","","","",L2J,"",,VJC
+76b869,9V-NCI,A21N,"","","","","",L2J,"",,TGW
+a1a832,N2059J,A21N,A321-271NX,Airbus,Jetblue Airways,Jetblue Airways Corp,IAE PW1133G-JM,L2J,2021-01-01,4.8,JBU
+40780e,G-NEOY,A21N,"","",British Airways,"","",L2J,"",,BAW
+a57229,N450AN,A21N,A321-253NX,Airbus,American Airlines,American Airlines Inc,CFM INTL LEAP-1A33,L2J,2022-01-01,3.8,AAL
+49514b,CS-TJK,A21N,A321 251N,Airbus,Tap Portugal,Cdb Aviation,CFM LEAP-1A32,L2J,"",,TAP
+a4acae,N400AN,A21N,A321-253NX,Airbus,"",Bank Of Utah Trustee,CFM INTL LEAP-1A33,L2J,2019-01-01,6.8,AAL
+8014bb,VT-IMH,A21N,"","","","","",L2J,"",,IGO
+a7ef4b,N610FR,A21N,A321-271NX,Airbus,"",Bank Of Utah Trustee,"",L2J,"",,FFT
+a1c1a0,N212HA,A21N,A321-271N,Airbus,Hawaiian Airlines,Hawaiian Airlines Inc,IAE PW1133G-JM,L2J,2018-01-01,7.8,ASA
+0ac9c2,HK-5353,A20N,"","","","","",L2J,"",,AVA
+e4932b,PR-YYH,A20N,"","","","","",L2J,"",,AZU
+40756d,G-UZHO,A20N,A-320neo,Airbus,Easyjet,"",2 x CFMI LEAP-1A26,L2J,"",,EZY
+4076cc,G-TTNI,A20N,A320-251N,Airbus Industrie,British Airways,"","",L2J,"",,BAW
+3c65c8,D-AINH,A20N,A320 271NSL,Airbus,"",Lufthansa,"",L2J,"",,DLH
+e49329,PR-YYE,A20N,"","","","","",L2J,"",,AZU
+84b42f,JA204P,A20N,"","","","","",L2J,"",,APJ
+a32396,N301FR,A20N,A320-251N,Airbus,Frontier Airlines,Wells Fargo Trust Co Na Trustee,CFM INTL LEAP-1A26,L2J,2016-01-01,9.8,FFT
+880c45,HS-CBE,A20N,"","","","","",L2J,"",,AIQ
+40756a,G-UZHK,A20N,A-320neo,Airbus,Easyjet,"","",L2J,"",,EZY
+440cbf,OE-LSO,A20N,"","","","","",L2J,"",,EJU
+7819f2,B-320N,A20N,"","","","","",L2J,"",,CES
+4bb84d,TC-NBM,A20N,"","",Pegasus Airlines,"","",L2J,"",,PGT
+781bb5,B-324F,A20N,"","","","","",L2J,"",,CQH
+e4962d,PR-YSG,A20N,A320-251N,"",Azul Linhas Aéreas Brasileiras,"","",L2J,"",,AZU
+010207,SU-GFM,A20N,A320-251N,"",Egyptair,"","",L2J,"",,MSR
+a41090,N361FR,A20N,A320-251N,Airbus,Frontier Airlines,Bank Of Utah Trustee,CFM INTL LEAP-1A26,L2J,2019-01-01,6.8,FFT
+80152d,VT-IPE,A20N,"","","","","",L2J,"",,IGO
+899058,B-22823,A20N,"","","","","",L2J,"",,TTW
+781672,B-307N,A20N,"","","","","",L2J,"",,CQH
+40650b,G-LCYO,E190,ERJ 190-100 SR Embraer 190,Embraer Sa,"",Ba Cityflyer,2 x GENERAL ELECTRIC CO CF34-10E5A1<br>,L2J,2011-01-01,14.8,CFE
+4b19f4,HB-JVO,E190,ERJ 190-100 LR,Embraer - Empresa Brasileira De Aeronáutica Sa,Helvetic Airways,Bernina Aircraft Leasing Inc.,GENERAL ELECTRIC COMPANY CF34-10E5A1,L2J,2009-01-01,16.8,SWR
+495216,CS-TPV,E190,EMB-190 LR,Embraer,"",Tap Express,"",L2J,"",,TAP
+40799c,G-LCAD,E190,"","","","","",L2J,"",,CFE
+8990f5,B-16827,E190,EMB-190 AR,Embraer,"",Mandarin Airlines,"",L2J,"",,MDA
+484b31,PH-EZD,E190,EMB-190 STD,Embraer,"",Klm Cityhopper,"",L2J,"",,KLM
+020113,CN-RGR,E190,EMB-190 AR,Embraer,Royal Air Maroc,Royal Air Maroc,"",L2J,2014-01-01,11.8,RAM
+4075a2,G-LCYZ,E190,ERJ-190SR,Embraer,Ba Cityflyer,Ba Cityflyer,GE CF34-10E,L2J,"",,CFE
+40799b,G-LCAC,E190,"","","","","",L2J,"",,CFE
+398561,F-HBLB,E190,EMB-190 LR,Embraer,Hop!,Hop,"",L2J,"",,AFR
+008081,ZS-YAC,E190,"","","","","",L2J,"",,LNK
+484c54,PH-EZP,E190,EMB-190 STD,Embraer,"",Klm Cityhopper,"",L2J,"",,KLM
+398564,F-HBLE,E190,EMB-190 LR,Embraer,Hop!,Hop,"",L2J,"",,AFR
+495217,CS-TPW,E190,EMB-190 LR,Embraer,"",Tap Express,"",L2J,"",,TAP
+46c28d,SX-PTM,E190,ERJ-190SR,Embraer,Air Serbia,"","",L2J,"",,AEZ
+4079d0,G-LCAE,E190,"","","","","",L2J,"",,CFE
+3c1459,D-AWSI,E190,"","",Wdl Aviation,Wdl Aviation,"",L2J,"",,KLM
+0d06d3,XA-ACJ,E190,EMB-190 LR,Embraer,"",Aeromexico Connect,"",L2J,"",,SLI
+3c76ef,D-AMWO,E190,"","","","","",L2J,"",,KLM
+7c7773,VH-XVP,E190,"","","","","",L2J,"",,QLK

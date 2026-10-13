@@ -1,0 +1,104 @@
+# Plateau calibration — data acquisition configuration
+#
+# Shared channel-processing settings. The experiment replay gets its aircraft
+# and dates from the supplied CSV inputs; run.py is a separate single-day driver.
+# Meteorological enrichment must be bounded to one requested date per call.
+#
+# See README.md for the acquisition prerequisites and data location overrides.
+
+paths:
+  data_dir: "./data"
+  preprocess_dir: "preprocessed_parquet"
+  era5_cache_dir: "era5_cache"
+
+era5_features:
+  - u_component_of_wind
+  - v_component_of_wind
+  - temperature
+
+# 10 diverse typecodes (node-fdm paper set minus A319, a redundant A320-family
+# narrowbody). Kept: turboprop AT76, widebodies A333/A359, regional E190, Boeing
+# narrow B738/B38M, Airbus narrow A320/A20N/A21N/A321.
+typecodes:
+  - A320
+  - B738
+  - A20N
+  - B38M
+  - A21N
+  - A321
+  - A333
+  - A359
+  - AT76
+  - E190
+
+computing:
+  default_cpu_count: 35
+
+flag:
+  distance_low_thr: 50.0  # 200m default too aggressive for OpenSky ~1Hz data
+
+# ---------------------------------------------------------------------------
+# selected_params — REQUIRED BY THE SCHEMA, NOT USED BY THIS PIPELINE.
+#
+# `PipelineConfig` makes the five detector channels mandatory on purpose: a
+# config silent about its detector tuning would run on whatever the file last
+# happened to hold, and publish numbers nothing traces back. That rule is right,
+# and it is the same discipline this paper's rebuild is applying elsewhere.
+#
+# It nevertheless has nothing to calibrate here. This driver stops at
+# `clean-speeds` and never runs `segments`, because detecting the set-points is
+# exactly what the paper does downstream — the data layer must hand over cleaned
+# INPUT channels, not pre-detected targets, or the calibration would be scored
+# against its own output.
+#
+# So these values are a schema obligation, and are declared as such. They are
+# the paper's own table 3 operating points, carried verbatim so that anything
+# reading this file sees the state of the art at the time of writing rather than
+# an invented placeholder. Nothing in this experiment reads them.
+#
+# Do not use these acquisition-schema values as detector calibration results.
+# The experiment manifests and their measured outputs own those choices.
+selected_params:
+  mach:
+    mode: bilateral_mach
+    sigma_s: 8.0
+    sigma_r: 0.01
+    n_passes: 2
+    slope_tol: 3.0e-4
+    flat_tol: 5.0e-2
+    min_len: 15
+
+  cas:
+    mode: bilateral_cas
+    cutoff_s: 180.0
+    sigma_s: 8.0
+    sigma_r: 3.0
+    n_passes: 2
+    slope_tol: 0.09
+    flat_tol: 20.0
+    min_len: 5
+
+  vz:
+    mode: bilateral_vz
+    sigma_s: 6.0
+    sigma_r: 100.0
+    slope_tol: 50.0
+    flat_tol: 100.0
+    min_len: 10
+
+  alt:
+    mode: bilateral_alt
+    sigma_s: 6.0
+    sigma_r: 20.0
+    slope_tol: 6.0
+    flat_tol: 100.0
+    min_len: 6
+
+  gamma:
+    mode: bilateral_gamma
+    sigma_s: 6.0
+    sigma_r: 0.002
+    slope_tol: 1.2e-3
+    flat_tol: 2.0e-3
+    abs_min: 5.0e-3
+    min_len: 10
